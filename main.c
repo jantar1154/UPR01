@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int money = 9420;
+    int money = 9420; // zmenit tuto hodnotu
 
     int b100, b200, b500, b1k, b2k, b5k;
 
